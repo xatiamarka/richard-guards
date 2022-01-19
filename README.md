@@ -1,4 +1,4 @@
-# Richard Guard (Koruma) Sistemi
+# Richard Guard Sistemi
 
 - İlerleyen süreçte uygun oldukça ekleyeceğim amacım sadece projeleri oluşturmak ve ssleri toparlamak.
 - Sistem genel olarak bütün sunucularda kullanılabilir şekilde yapılmıştır.
