@@ -1,6 +1,6 @@
 # Richard Guard Sistemi
 
-- İlerleyen süreçte uygun oldukça ekleyeceğim amacım sadece projeleri oluşturmak ve ssleri toparlamak.
+- İnternetim kötü olduğu için yükleme yapamıyorum ama 21.01.2022 veya 22.01.2022 tarihinin akşam saatlerinde çok güzel guard projesi atıcam, şimdilik gecikme için özür diliyorum.
 - Sistem genel olarak bütün sunucularda kullanılabilir şekilde yapılmıştır.
 
 Yardımları için [Thâns](https://github.com/ThansEX)'a teşekkür ediyorum.
