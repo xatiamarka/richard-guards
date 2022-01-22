@@ -15,6 +15,14 @@ Yardımları için [Thâns](https://github.com/ThansEX)'a teşekkür ediyorum.
 - `<prefix>izinler [@etiket/ID]` komutu ile güvenli listesindeki kişilerin hangi eylemleri gerçekleştirebileceğini düzenleyebilirsiniz.
 # Bot İçeriğine Ait Resimler
 
+## Konsol Logu
+- Ssleri yarın gündüz ekleyeceğim
+## Sunucu Logu
+- Ssleri yarın gündüz ekleyeceğim
+## İzin Listesi
+- Ssleri yarın gündüz ekleyeceğim
+## Ufak Ayarlar
+- Ssleri yarın gündüz ekleyeceğim
 ## Güvenli Listesi
 ![wqvqwrvqwrvqw](https://user-images.githubusercontent.com/97298322/150616975-95c84c2a-9c09-4115-9ca9-1c0dfe5771e9.PNG)
 ![qwveqwvqwveqwevqwevqwev](https://user-images.githubusercontent.com/97298322/150616965-7a011aa8-ba9f-4fa8-9e57-78df3bc657df.PNG)
