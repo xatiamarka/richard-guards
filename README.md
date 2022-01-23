@@ -17,9 +17,9 @@ Yardımları için [Thâns](https://github.com/ThansEX)'a teşekkür ediyorum.
 # Bot İçeriğine Ait Resimler
 
 ## Konsol Logu
-- Ssleri yarın gündüz ekleyeceğim
+- Sistem çok detaylı olduğu için parça parça eklemekteyim en geç çarşambaya bitmiş olur
 ## Sunucu Logu
-- Ssleri yarın gündüz ekleyeceğim
+- Sistem çok detaylı olduğu için parça parça eklemekteyim en geç çarşambaya bitmiş olur
 ## İzin Listesi
 ![qwvrqwrvqwrvqrvwqrqwr](https://user-images.githubusercontent.com/97298322/150674461-1a7d4b41-b5b5-47d6-8b4f-f3e968aa599a.PNG)
 ![qwvrwqvqwvqrvqwr](https://user-images.githubusercontent.com/97298322/150674462-2f0a0391-62e8-42ec-9cb2-6b2ccbeb9f15.PNG)
