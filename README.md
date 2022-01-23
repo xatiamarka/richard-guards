@@ -25,6 +25,7 @@ Yardımları için [Thâns](https://github.com/ThansEX)'a teşekkür ediyorum.
 ![qwvrwqvqwvqrvqwr](https://user-images.githubusercontent.com/97298322/150674462-2f0a0391-62e8-42ec-9cb2-6b2ccbeb9f15.PNG)
 ![rqvrqwvqwvqwvrqwr](https://user-images.githubusercontent.com/97298322/150674469-ebf44070-d46b-457c-ad09-8c18b479f882.PNG)
 ## Ufak Ayarlar
+![qwbrqwbqwrbqwr](https://user-images.githubusercontent.com/97298322/150678641-e4de05fe-c918-4831-8a82-e5e0f5c50ffb.PNG)
 ![qwbqwrbqwrbqwrbqw](https://user-images.githubusercontent.com/97298322/150676230-9a9e3e3e-c129-4eb0-9d99-33009f78abb2.PNG)
 ![qwbrqwbqwbqwrb](https://user-images.githubusercontent.com/97298322/150676241-92fc461b-b4af-4f5d-953b-902aeed2e9d1.PNG)
 ![qbrqwbqwbqwbqw](https://user-images.githubusercontent.com/97298322/150676236-b24b7955-b08e-4178-ae85-115140a3ffae.PNG)
