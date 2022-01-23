@@ -12,7 +12,8 @@ Yardımları için [Thâns](https://github.com/ThansEX)'a teşekkür ediyorum.
 # Kurulum Nasıl Yapılır?
 - `src/Configs` klasörünün içerisindeki `Config.json` dosyasını düzenlemeniz yeterli olacaktır.
 - `<prefix>guvenli [@etiket/ID]` komutu ile güvenli listesini düzenleyebilirsiniz.
-- `<prefix>izinler [@etiket/ID]` komutu ile güvenli listesindeki kişilerin hangi eylemleri gerçekleştirebileceğini düzenleyebilirsiniz.
+- `<prefix>izin` komutu ile güvenli listesindeki kişilerin hangi eylemleri gerçekleştirebileceğini düzenleyebilirsiniz.
+- `<prefix>ceza` komutu ile işlem sonrası uygulanacak işlemi düzenleyebilirsiniz.
 # Bot İçeriğine Ait Resimler
 
 ## Konsol Logu
@@ -20,7 +21,9 @@ Yardımları için [Thâns](https://github.com/ThansEX)'a teşekkür ediyorum.
 ## Sunucu Logu
 - Ssleri yarın gündüz ekleyeceğim
 ## İzin Listesi
-- Ssleri yarın gündüz ekleyeceğim
+![qwvrqwrvqwrvqrvwqrqwr](https://user-images.githubusercontent.com/97298322/150674461-1a7d4b41-b5b5-47d6-8b4f-f3e968aa599a.PNG)
+![qwvrwqvqwvqrvqwr](https://user-images.githubusercontent.com/97298322/150674462-2f0a0391-62e8-42ec-9cb2-6b2ccbeb9f15.PNG)
+![rqvrqwvqwvqwvrqwr](https://user-images.githubusercontent.com/97298322/150674469-ebf44070-d46b-457c-ad09-8c18b479f882.PNG)
 ## Ufak Ayarlar
 - Ssleri yarın gündüz ekleyeceğim
 ## Güvenli Listesi
