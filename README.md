@@ -1,6 +1,6 @@
 # Richard Guard Sistemi
 
-- Yapımı 1 Hafta sürmüştü, sorun varsa sizinle alakalıdır. 
+- Hataları düzeltiyorum yarın öğlene atmış olurum.
 - Sistem genel olarak bütün sunucularda kullanılabilir şekilde yapılmıştır.
 
 Yardımları için [Thâns](https://github.com/ThansEX)'a teşekkür ediyorum.
