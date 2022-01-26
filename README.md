@@ -17,7 +17,7 @@ Yardımları için [Thâns](https://github.com/ThansEX)'a teşekkür ediyorum.
 # Bot İçeriğine Ait Resimler
 
 ## Konsol Logu
-- Sistem çok detaylı olduğu için parça parça eklemekteyim en geç çarşambaya bitmiş olur
+![qnrewnqtnwqentwqetnwet](https://user-images.githubusercontent.com/97298322/151237261-b6c303fa-7623-4ed7-a6c5-2e1ee22c4bc2.PNG)
 ## Sunucu Logu
 - Sistem çok detaylı olduğu için parça parça eklemekteyim en geç çarşambaya bitmiş olur
 ## İzin Listesi
