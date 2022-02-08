@@ -1,6 +1,7 @@
 # Richard Guard Sistemi
 
-- Hataları düzeltiyorum yarın öğlene atmış olurum.
+- Bilgisayarımın çökmeleri yüzünden düzenlemelerimin çoğu silindi, log ve ayar kısımları tamamen gitti, baştan yapmam lazım.
+- Biraz daha beklemenizi istemek zorundayım ama beklediğinize değicek, iyi günler dilerim.
 - Sistem genel olarak bütün sunucularda kullanılabilir şekilde yapılmıştır.
 
 Yardımları için [Thâns](https://github.com/ThansEX)'a teşekkür ediyorum.
@@ -21,7 +22,7 @@ Yardımları için [Thâns](https://github.com/ThansEX)'a teşekkür ediyorum.
 
 ![qnrewnqtnwqentwqetnwet](https://user-images.githubusercontent.com/97298322/151237463-69f6f79f-3eff-416a-97d2-537d6d355a98.PNG)
 ## Sunucu Logu
-- Sistem çok detaylı olduğu için parça parça eklemekteyim en geç çarşambaya bitmiş olur
+- Silindiği için baştan yapıyorum..
 ## İzin Listesi
 ![qwvrqwrvqwrvqrvwqrqwr](https://user-images.githubusercontent.com/97298322/150674461-1a7d4b41-b5b5-47d6-8b4f-f3e968aa599a.PNG)
 ![qwvrwqvqwvqrvqwr](https://user-images.githubusercontent.com/97298322/150674462-2f0a0391-62e8-42ec-9cb2-6b2ccbeb9f15.PNG)
