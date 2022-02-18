@@ -1,6 +1,6 @@
 # Richard Guard Sistemi
 
-- Bilgisayarımın çökmeleri yüzünden düzenlemelerimin çoğu silindi, log ve ayar kısımları tamamen gitti, baştan yapmam lazım.
+- Yeni bilgisayarım geldi, ilerleyen süreçte hatasız bir şeklide bitirip atacağım.
 - Biraz daha beklemenizi istemek zorundayım ama beklediğinize değicek, iyi günler dilerim.
 - Sistem genel olarak bütün sunucularda kullanılabilir şekilde yapılmıştır.
 
