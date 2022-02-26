@@ -1,8 +1,17 @@
 # Richard Guard Sistemi
 
-- Yeni bilgisayarım geldi, ilerleyen süreçte hatasız bir şeklide bitirip atacağım.
-- Biraz daha beklemenizi istemek zorundayım ama beklediğinize değicek, iyi günler dilerim.
+- Sistem bitti ve üstüne bir çok proje yaptım lakin paylaşma isteğim yok, yinede açıklama yapacağım aşağıyı üşenmeden okuyun hadi bb.
 - Sistem genel olarak bütün sunucularda kullanılabilir şekilde yapılmıştır.
+
+# SON DUZENLEME
+- Bu projenin alacağı son düzenleme, bir sonraki düzenlemede projeyi atıcam sebebi yoğun ilgi ve dm kutumun gereksiz rahatsız edilmesi.
+- Bir konuya da değinmek istiyorum ben v12 bot yapan bir insanım, bu github hesabını açma amacım kendi bilgimi insanlar ile paylaşmak ve en azından bir gramda olsa birşeyler öğrenmelerini sağlamak oldu. Amacıma ulaştım girdiğim 10 sunucudan en az 2sinde kendi projelerimden parçalar var, ilginiz için teşekkür ederim❤
+
+# V12 BITIOR MORUQ YHA V13 GEÇ SKRT SKRT
+- "v12 bitiyor", "neden v12 atıcaksın" vb soruları geliyor, dediğim gibi ben v12 kullanıyorum kimse içinde lüksümü değişteremem bitene kadarda v12 kullanıcam üst sürümlere geçmek yerine "discord.js" kütüphanesi ile olan bağımı sonlandırıcam, bu konuya değinme sebebimi şöyle açıklıyayım;
+Ben uzun uzun kurulum sistemi sevmem ordan id al burdan jsona git burdan onu tanımla falan uğraşamam ki zaten projelerimin çoğunda jsonda 5 tanım olur harici sunucu içinde komutla yapılır ki buda zor bi sistem değil ama gel gör ki bunları bile yapmayı beceremeyen üstüne aldığı botu nasıl çalıştıracağını bilmeyen bir sürü "github botçusu" var. Ben burayı insanlar bilgi öğrensin diye açtım birşey alsınlar kendileri yapsınlar diye yaptım bana yapılan 10 geri dönüşten 2'si "v13 çıkıcak v12 yapma", lazımsa v13 yaparsın diyorum adam bana "v13 ne oluyor", "v13 yapmak basit mi", "30 nisanda v12 bitiyor o zaman v13 yapabilirmisin" tarzında cevaplar alıyorum, yazık gerçekten yazık.
+
+### Son olarak; `Lütfen aldığınız kodun veya botun ne olduğunu bi inceleyin.`  
 
 Yardımları için [Thâns](https://github.com/ThansEX)'a teşekkür ediyorum.
 
